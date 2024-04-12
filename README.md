@@ -1,28 +1,46 @@
 # Workout logs
 
-Basic full-body workout, I'll do it 3x a week 
+Basic full-body workout, I'll do it 4x a week 
 
-## PUSH
+## PUSH I
 
-Squats (Smith)              5x10 
+Split squats (Smith)        3x8-12 
 
-Incline Bench (Smith)       5x10
+Leg extensions              3x8-12
 
-Leg extensions              5x10
+Close grip bench            3x8-12
 
-Triceps Extension (Cable)   5x10
+Lateral raise (Cable)       3x8-12
 
-Lateral Raise (Cable)       5x10
+## PUSH II
 
-## PULL
+Incline bench (Smith)       3x8-12
 
-RDL (Smith)                 5x10
+Triceps extension (Cable)   3x8-12
 
-Pull ups                    5x10
+Leg extensions              3x8-12
 
-Leg curls                   5x10
+Calf raises                 3x8-12
 
-DB row                      5x10 
+## PULL I
 
-Biceps curls (Cable)        5x10
+Pull ups                    3x8-12
+
+Biceps curls                3x8-12
+
+Leg curls                   3x8-12
+
+RDL (Smith)                 3x8-12
+
+## PULL II
+
+Pull ups                    3x8-12
+
+Biceps curls                3x8-12
+
+Leg curls                   3x8-12
+
+RDL (Smith)                 3x8-12
+
+
 
