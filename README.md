@@ -34,7 +34,7 @@ RDL (Smith)                 3x8-12
 
 ## PULL II
 
-Pull ups                    3x8-12
+BB rows (Smith)             3x8-12
 
 Biceps curls                3x8-12
 
